@@ -19,17 +19,19 @@ The data were collected with the Google Places API. The collection process used 
 
 Google Places API returns only five reviews per place. For this reason, the dataset is broad across many places rather than deep for a few famous attractions. This is important for the research design.
 
-### Google Places Data Use, Attribution, and Copyright
+### Ethics, Data Use, and Copyright Statement
 
-This demo uses Google Places API data only for a proof-of-concept analysis. The repository does not redistribute the downloaded raw Google review dataset. Google Maps Platform content is subject to Google Maps Platform policies and terms. Google Maps content and review text must be used with proper attribution.
+This demo uses Google Places API data only for a proof-of-concept analysis. The repository does not redistribute the downloaded raw Google review dataset. The analysis reports only aggregate results, summary tables, and figures.
 
-Reviews are written by users and displayed through Google. This project does not claim ownership of review text. This repository reports aggregate results and figures. If Google-derived content is displayed, Google attribution is required.
+Google Maps Platform content is subject to Google Maps Platform policies and terms. Google Maps content and review text must be used with proper attribution.
+
+Reviews are written by users and displayed through Google. This project does not claim ownership of review text. If Google-derived content is displayed, Google attribution is required.
 
 ![Powered by Google](assets/powered_by_google.png)
 
 Attribution text: <span translate="no">Google Maps</span>
 
-The collection script does not store review author names in new outputs, and the analysis does not profile individual users.
+For privacy reasons, the collection script does not store review author names in new outputs. The analysis does not profile individual users.
 
 ### Sampling
 
