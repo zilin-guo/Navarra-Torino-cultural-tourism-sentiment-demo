@@ -233,7 +233,7 @@ Main input:
 outputs/google_places_navarra_torino_combined/reviews_1000_balanced.csv
 ```
 
-This input file is not intended for public redistribution. It is ignored by Git and kept local for reproducibility.
+This input file is not intended for public redistribution. Please use Google Places API to collect data.
 
 Main outputs:
 
